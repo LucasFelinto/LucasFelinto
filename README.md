@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasFelinto&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/ThierryMatheus)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelinto&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **LucasFelinto/LucasFelinto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
