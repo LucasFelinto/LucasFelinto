@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Gmail Badge](https://img.shields.io/badge/-elucasfelintol@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:thierrymatheusreal@gmail.com "Connect via Email")
+ ![Profile Views](https://komarev.com/ghpvc/?username=LucasFelinto&color=7802aa)
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=LucasFelinto&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/ThierryMatheus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasFelinto&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
